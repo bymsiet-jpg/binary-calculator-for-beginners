@@ -1,0 +1,2 @@
+rootProject.name = "binary-calculator-for-beginners"
+include ":app"
